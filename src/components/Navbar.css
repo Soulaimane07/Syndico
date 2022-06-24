@@ -1,0 +1,87 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+}
+.navbar .logo img {
+    width: 200px;
+}
+.navbar .ltr,.rtl {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    margin: 0 5%;
+    padding: 20px 0;
+    position: relative;
+    height: 100px;
+}
+.navbar ul {
+    display: flex;
+    background-color: #1A374D;
+    border-radius: 4px;
+}
+.navbar ul li {
+    padding: 20px 40px;
+    cursor: pointer;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-radius: 2px;
+    transition: all 300ms;
+}
+.navbar ul li:last-child {
+    padding: 20px 15px;
+}
+.navbar li:hover {
+    border-left: 4px solid white;
+    border-right: 4px solid white;
+    background-color: #6998AB;
+}
+
+
+.langs ul {
+    position: fixed;
+    top: 110px;
+    width: 3%;
+    right: 5.2%;
+    color: white;
+}
+.langs ul li {
+    background-color: crimson;
+    margin: 10px 0;
+    padding: 14px;
+    justify-content: center;
+    display: flex;
+    border-radius: 150px;
+    animation-name: show;
+    animation-duration: 0.3s;
+    transition: all 300ms;
+} 
+@keyframes show {
+    0%   {background: none; margin-top:-50px;}
+    100%  { top:0px;}
+}
+.langs li:hover {
+    background-color: rgb(226, 37, 75);
+    cursor: pointer;
+}
+
+
+.rtl li:first-child {
+    padding: 20px 15px;
+}
+.rtl ul li:last-child {
+    padding: 20px 40px;
+}
+
+.rtl .langs {
+    position: absolute;
+    left: 5%;
+    top: 0;
+    background-color: cadetblue;
+}
+
+hr {
+    background-color: black;
+}

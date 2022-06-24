@@ -1,0 +1,33 @@
+{
+    "navbar":[
+        {
+            "title":"Syndico",
+            "link":""
+        },
+        {
+            "title":"Moduls",
+            "link":""
+        },
+        {
+            "title":"Contact",
+            "link":""
+        }
+    ],
+    "carousel":[
+        {
+            "para":"Syndico The leader in professional trustee management in Marrakech",
+            "bgImg":"/images/carousel1.jpg",
+            "button":"Contact us"
+        },
+        {
+            "para":"Professional support for the management of your syndic",
+            "bgImg":"/images/carousel2.jpg",
+            "button":"Contact us"
+        },
+        {
+            "para":"Pour une gestion rigoureuse,transparente et efficace",
+            "bgImg":"/images/carousel3.jpg",
+            "button":"Contact us"
+        }
+    ]
+}

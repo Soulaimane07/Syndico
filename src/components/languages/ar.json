@@ -1,0 +1,33 @@
+{
+    "navbar":[
+        {
+            "title":"اتصل",
+            "link":""
+        },
+        {
+            "title":"الوحدات",
+            "link":""
+        },
+        {
+            "title":"سانديكو",
+            "link":""
+        }
+    ],
+    "carousel":[
+        {
+            "para":"سانديكو الرائد في إدارة الأمناء المهنية في مراكش",
+            "bgImg":"/images/carousel1.jpg",
+            "button":"اتصل بنا"
+        },
+        {
+            "para":"دعم احترافي لإدارة نقابتك",
+            "bgImg":"/images/carousel2.jpg",
+            "button":"اتصل بنا"
+        },
+        {
+            "para":"دعم احترافي لإدارة نقابتك",
+            "bgImg":"/images/carousel3.jpg",
+            "button":"اتصل بنا"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "navbar":[
+        {
+            "title":"Syndico",
+            "link":""
+        },
+        {
+            "title":"Modules",
+            "link":""
+        },
+        {
+            "title":"Contact",
+            "link":""
+        }
+    ],
+    "carousel":[
+        {
+            "para":"Syndico Le leader de la gestion de Syndic professionnelle au Marrakech",
+            "bgImg":"/images/carousel1.jpg",
+            "button":"Contacter Nous"
+        },
+        {
+            "para":"Accompagnement professionnel pour la gestion de votre syndic",
+            "bgImg":"/images/carousel2.jpg",
+            "button":"Contacter Nous"
+        },
+        {
+            "para":"Pour une gestion rigoureuse,transparente et efficace",
+            "bgImg":"/images/carousel3.jpg",
+            "button":"Contacter Nous"
+        }
+    ]
+
+}

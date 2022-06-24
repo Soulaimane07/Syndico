@@ -1,0 +1,21 @@
+[
+    {
+        "id":0,
+        "title":"Francais",
+        "sub":"Fr",
+        "type":"ltr"
+
+    },
+    {
+        "id":1,
+        "title":"English",
+        "sub":"En",
+        "type":"ltr"
+    },
+    {
+        "id":2,
+        "title":"arabe",
+        "sub":"Ar",
+        "type":"rtl"
+    }
+]
